@@ -397,6 +397,11 @@ Home
 	color: #bfbfbf;
 	text-transform: uppercase;
 }
+
+.typer-title{
+	font-size: 19.5px !important;
+}
+
 .home-s-btn {
 	display: block;
 	bottom: 50px;
