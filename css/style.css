@@ -1175,5 +1175,5 @@ keyframes animation
 }
 
 #adjustImage {
-  height: 225px;
+  height: 225px !important;
 }
